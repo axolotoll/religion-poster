@@ -1,6 +1,5 @@
-.humandignitytext{
-    position: fixed;
-    left: 50%;
-    top: 1%;
-    transform: translateX(-50%);
-}
+.humandignitytext{position: absolute;
+      top: 1%;
+      left: 50%;
+      transform: translateX(-50%);
+    }
